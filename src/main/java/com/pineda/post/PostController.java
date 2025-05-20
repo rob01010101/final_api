@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:5173", "https://final-ui-ce9r.onrender.com"})
+@CrossOrigin(origins = {"http://localhost:5173", "https://final-ui-io9l.onrender.com"})
 @RequestMapping("/pineda/posts")
 public class PostController {
 
